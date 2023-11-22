@@ -1,0 +1,18 @@
+Créez une application React qui permet aux utilisateurs de voter pour des films. 
+Pour aller plus loins, vous pouvez utiliser Redux pour la gestion de l'état et React Router (version 5) pour la navigation.
+
+Objectifs de Base :
+	Affichage des Films :
+	- Affichez une liste de films. Chaque film doit avoir un titre et un compteur de votes.
+	- Ajoutez un bouton "Voter" pour chaque film permettant d'incrémenter le nombre de votes.
+
+Objectifs Bonus :
+	Gestion de l'État avec Redux :
+	- Utilisez Redux pour gérer l'état global de l'application, y compris les données des films et leur nombre de votes.
+	- Créez des actions et des reducers pour gérer les votes des films.
+
+	Passez les fonctions de gestion des événements en tant que props entre les composants pour permettre aux utilisateurs de voter.
+
+	Configuration de React Router :
+	- Intégrez React Router pour ajouter des routes à votre application.
+	- Créez au moins deux pages : une pour afficher la liste des films et une autre pour afficher des détails sur un film spécifique.
