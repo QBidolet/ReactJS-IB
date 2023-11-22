@@ -1,5 +1,5 @@
 Créez une application React qui permet aux utilisateurs de voter pour des films. 
-Pour aller plus loins, vous pouvez utiliser Redux pour la gestion de l'état et React Router (version 5) pour la navigation.
+Pour aller plus loin, vous pouvez utiliser Redux pour la gestion de l'état et React Router (version 5) pour la navigation.
 
 Objectifs de Base :
 	Affichage des Films :
